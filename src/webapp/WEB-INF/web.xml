@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" version="6.0">
+  <display-name>MatrmonyProject</display-name>
+  <welcome-file-list>
+    <welcome-file>Home.jsp</welcome-file>
+    
+    <welcome-file>edit.jsp</welcome-file>
+      <welcome-file>profile.jsp</welcome-file>
+       <welcome-file>contactedit.jsp</welcome-file>
+       <welcome-file>image.jsp</welcome-file>
+       <welcome-file>display.jsp</welcome-file>
+       <welcome-file>match.jsp</welcome-file>
+       <welcome-file>rateus.jsp</welcome-file>
+       <welcome-file>contact.jsp</welcome-file>
+       <welcome-file>reset.jsp</welcome-file>
+       <welcome-file>forgot.jsp</welcome-file>
+        <welcome-file>viewreview.jsp</welcome-file>
+          <welcome-file>viewClients.jsp</welcome-file>
+           <welcome-file>viewdetails.jsp</welcome-file>
+         <welcome-file>viewstatus.jsp</welcome-file>
+          <welcome-file>suggest.jsp</welcome-file>
+    
+    
+   
+   
+  </welcome-file-list>
+</web-app>
